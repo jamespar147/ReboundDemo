@@ -16,6 +16,7 @@ Running the matchmaking server requires [NodeJS](https://nodejs.org/en/).
 
 
 ## Instructions
+1. Clone the repository.
 1. Navigate to the **MMS** directory.
 1. Run the command **npm install** to install dependencies.
 1. Run the command **node index** to start the matchmaking server.
