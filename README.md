@@ -10,8 +10,8 @@ It should be noted that this repository also contains the matchmaking server cod
 
 
 ## Requirements
-Running the client/server executables requires Windows.
-Running the matchmaking server requires [NodeJS](https://nodejs.org/en/).
+* Running the client/server executables requires Windows.
+* Running the matchmaking server requires [NodeJS](https://nodejs.org/en/).
 
 
 ## Instructions
