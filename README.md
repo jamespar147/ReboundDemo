@@ -4,14 +4,13 @@ Rebound Demo
 ![alt text](https://jwparsons.bitbucket.io/style/images/projects/rebound/title.png "Rebound Title")
 
 ## Introduction
-This repository contains the neccesary code for running Rebound, an online multiplayer arena deathmatch video game.
+This repository contains the code necessary for running Rebound, an online multiplayer arena deathmatch video game.
 You can also take a look at the [source code](https://github.com/jwparsons/Rebound) and [matchmaking server](https://github.com/jwparsons/Rebound_MatchmakingServer).
 It should be noted that this repository also contains the matchmaking server code.
 
 
 ## Requirements
 Running the client/server executables requires Windows.
-
 Running the matchmaking server requires [NodeJS](https://nodejs.org/en/).
 
 
