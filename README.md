@@ -27,7 +27,7 @@ Running the matchmaking server requires [NodeJS](https://nodejs.org/en/).
 1. Enjoy!
 
 
-## Rebound Demo
+## Demo
 [![Rebound Demo](https://jwparsons.bitbucket.io/style/images/projects/rebound/rebound_repo_tn.png)](https://vimeo.com/2751733284 "Rebound Demo - click to watch!")
 
 
