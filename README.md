@@ -4,7 +4,7 @@ Rebound Demo
 ![alt text](https://jwparsons.bitbucket.io/style/images/projects/rebound/title.png "Rebound Title")
 
 ## Introduction
-This repository contains the code necessary for running Rebound, an online multiplayer arena deathmatch video game.
+This repository contains the code necessary for running Rebound, an online multiplayer video game.
 You can also take a look at the [source code](https://github.com/jwparsons/Rebound) and [matchmaking server](https://github.com/jwparsons/Rebound_MatchmakingServer).
 It should be noted that this repository also contains the matchmaking server code.
 
@@ -21,7 +21,7 @@ It should be noted that this repository also contains the matchmaking server cod
 1. Run the command **node index** to start the matchmaking server.
 1. Navigate to top-level directory.
 1. Run the executable **Rebound.exe**.
-    1. Choose a name and press play.
+    1. Choose a name and press **Play**.
     1. Repeat 3 more times.
 1. Enjoy!
 
